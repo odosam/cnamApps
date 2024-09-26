@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as p,b as r,c as n,d as i,e as m,j as a,m as f,o as s,p as c,s as l,y as u}from"./chunk-W6BZOL2C.mjs";var o=class e{title="tp02_bruant_aude";static \u0275fac=function(t){return new(t||e)};static \u0275cmp=p({type:e,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,template:function(t,b){t&1&&(r(0,"h1"),i(1,"TP 02"),n())}})};var d=[];var C={providers:[a({eventCoalescing:!0}),u(d),c()]};var A={providers:[l()]},g=f(C,A);var x=()=>s(o,g),k=x;export{k as a};
